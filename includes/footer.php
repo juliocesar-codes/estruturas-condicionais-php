@@ -1,6 +1,6 @@
 </main>
 <footer>
-    <p>&copy;2024. Professor Flávio Ricardo</p>
+    <p>&copy;2024. Julio Cesar</p>
 </footer>
 </body>
 
